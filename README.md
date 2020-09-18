@@ -1,0 +1,2 @@
+# angryBirdsS2
+Inheritance
